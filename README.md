@@ -2,4 +2,8 @@
 Simple code for create a Splash screen in android app without creating a extra activity for splash screen
 
 
-<img src="https://s3.amazonaws.com/khata/bill/40e221fd-6ca0-4b12-b214-a068f45998fd.jpg">
+<img src="hhttps://s3.amazonaws.com/khata/bill/05c14134-ff6f-428c-a190-cfc1010256dc.jpg">
+
+
+
+<img src="https://s3.amazonaws.com/khata/bill/f3af4239-9112-4c9a-9fda-c5fd0107dfed.jpg>
